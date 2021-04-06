@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSTS4783ZXKhVns9QGGrXiZIPLynQDote2POzGLIepbsclgpKHOOahOnG3rp49pgzZjZwQdnpQ2Wl1lS/QfbHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonard\\RiderProjects\\SimbirSoftCourceTask\\SimbirSoftCourceTask\\SimbirSoftCourceTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonard\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512",
+    "C:\\Users\\Leonard\\.nuget\\packages\\nlog\\4.7.9\\nlog.4.7.9.nupkg.sha512",
+    "C:\\Users\\Leonard\\.nuget\\packages\\nlog.config\\4.7.9\\nlog.config.4.7.9.nupkg.sha512",
+    "C:\\Users\\Leonard\\.nuget\\packages\\nlog.schema\\4.7.9\\nlog.schema.4.7.9.nupkg.sha512"
+  ],
+  "logs": []
+}
