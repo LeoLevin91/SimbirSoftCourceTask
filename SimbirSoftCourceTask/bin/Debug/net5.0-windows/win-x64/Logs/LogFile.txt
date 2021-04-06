@@ -1,0 +1,2 @@
+2021-04-06 20:49:35.8705|INFO|SimbirSoftGUI.Classes.CounterWord|Завершение работы программы
+2021-04-06 20:49:41.6670|INFO|SimbirSoftGUI.Classes.CounterWord|Завершение работы программы
